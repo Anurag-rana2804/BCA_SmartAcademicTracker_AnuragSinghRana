@@ -124,8 +124,8 @@ SmartAcademicTracker/
 
 ## Author
 
-**Anurag Singh Rana , Aditya Dhakar , Ajay Yadav**
-BCA Students
+**Anurag Singh Rana**
+BCA Student
 ITM University, Gwalior
 
 ---
