@@ -62,7 +62,7 @@ The system provides **role-based dashboards** for Admin, Faculty, and Students, 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 
